@@ -5,3 +5,4 @@ def fib(n):
  	return a
 print "The Requested Position Number in the Fibonacci Sequence is : "
 print fib(8)
+print "\nThanks."
